@@ -1,9 +1,8 @@
 C:\Users\yuu15\Program\C#\TaskPic\bin\Release\TaskPic.exe.config
 C:\Users\yuu15\Program\C#\TaskPic\bin\Release\TaskPic.exe
-C:\Users\yuu15\Program\C#\TaskPic\bin\Release\TaskPic.pdb
 C:\Users\yuu15\Program\C#\TaskPic\obj\Release\TaskPic.Form1.resources
 C:\Users\yuu15\Program\C#\TaskPic\obj\Release\TaskPic.Properties.Resources.resources
 C:\Users\yuu15\Program\C#\TaskPic\obj\Release\TaskPic.csproj.GenerateResource.cache
 C:\Users\yuu15\Program\C#\TaskPic\obj\Release\TaskPic.csproj.CoreCompileInputs.cache
 C:\Users\yuu15\Program\C#\TaskPic\obj\Release\TaskPic.exe
-C:\Users\yuu15\Program\C#\TaskPic\obj\Release\TaskPic.pdb
+C:\Users\yuu15\Program\C#\TaskPic\obj\Release\TaskPic.csproj.AssemblyReference.cache
