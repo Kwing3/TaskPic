@@ -1,0 +1,10 @@
+C:\Users\yuu15\Program\C#\TaskPic\bin\Debug\TaskPic.exe.config
+C:\Users\yuu15\Program\C#\TaskPic\bin\Debug\TaskPic.exe
+C:\Users\yuu15\Program\C#\TaskPic\bin\Debug\TaskPic.pdb
+C:\Users\yuu15\Program\C#\TaskPic\obj\Debug\TaskPic.csproj.AssemblyReference.cache
+C:\Users\yuu15\Program\C#\TaskPic\obj\Debug\TaskPic.Form1.resources
+C:\Users\yuu15\Program\C#\TaskPic\obj\Debug\TaskPic.Properties.Resources.resources
+C:\Users\yuu15\Program\C#\TaskPic\obj\Debug\TaskPic.csproj.GenerateResource.cache
+C:\Users\yuu15\Program\C#\TaskPic\obj\Debug\TaskPic.csproj.CoreCompileInputs.cache
+C:\Users\yuu15\Program\C#\TaskPic\obj\Debug\TaskPic.exe
+C:\Users\yuu15\Program\C#\TaskPic\obj\Debug\TaskPic.pdb
